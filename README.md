@@ -47,7 +47,7 @@
  - Leaflet
 
 
-![ScreenShot](/Web-APP/images/1.jpg")>
+![ScreenShot](/Web-APP/images/1.jpg")
 
 ### **Pest Prediction CNN model**
  - ML Implementation

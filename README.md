@@ -1,4 +1,4 @@
-# **HACK-CBS**
+# **AgriTechS**
 
 ## **Data Driven Agriculture**
 

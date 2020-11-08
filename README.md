@@ -1,4 +1,4 @@
-# **AgriTechS**
+# **AgriTech 2020 - Kisan Portal**
 
 ## **Data Driven Agriculture**
 

@@ -77,7 +77,7 @@ Web Scarping using bs4 (python library) will give the 15 days weather forcast
 
 
  
-<img width="1792" alt="Screenshot 2020-11-01 at 10 29 46 AM" src="https://user-images.githubusercontent.com/45091369/97795965-e1f7fb80-1c32-11eb-8579-21211d12f6bf.png">
+<img width="1792" alt="Screenshot 2020-11-01 at 10 29 46 AM" src="/Web-App/images/1.jpg">
 
 
 

@@ -107,11 +107,9 @@ Web Scarping using bs4 (python library) will give the 15 days weather forcast
 
 <img width="1792" alt="img" src="/Web-App/images/6.jpg">
 <img width="1792" alt="img" src="/Web-App/images/7.jpg">
-<img width="1792" alt="img" src="https://user-images.githubusercontent.com/45091369/97796101-06080c80-1c34-11eb-839f-eeedea49e55d.png">
-<img width="1792" alt="Screenshot 2020-11-01 at 10 31 54 AM" src="https://user-images.githubusercontent.com/45091369/97796103-0bfded80-1c34-11eb-8b64-6501db3ff3f2.png">
 
 
 
 ### **MultiLangauge Support**
  - Google Translater Api
-<img width="1792" alt="Screenshot 2020-11-01 at 8 43 30 AM" src="https://user-images.githubusercontent.com/45091369/97796097-fab4e100-1c33-11eb-94ec-9f9faf79d40f.png">
+<img width="1792" alt="Screenshot 2020-11-01 at 8 43 30 AM" src="/Web-App/images/9.jpg">

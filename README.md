@@ -58,7 +58,7 @@
  - Opencv
 **Build CNN model trained on 10k image dataset provided kaggle of different Healthy and Unheathy plant image dataset**
 
-<img width="1792" alt="img" src="/Web-App/images/2.jpg">
+<img width="1792" alt="img" src="https://github.com/parryadig/HACK-CBS/Web-App/images/2.jpg">
 
 
 

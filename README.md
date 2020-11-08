@@ -58,7 +58,7 @@
  - Opencv
 **Build CNN model trained on 10k image dataset provided kaggle of different Healthy and Unheathy plant image dataset**
 
-<img width="1792" alt="img" src="https://github.com/parryadig/HACK-CBS/Web-App/images/2.jpg">
+![ScreenShot](/Web-APP/images/2.JPG)
 
 
 
@@ -77,7 +77,7 @@ Web Scarping using bs4 (python library) will give the 15 days weather forcast
 
 
  
-<img width="1792" alt="img" src="/Web-App/images/3.jpg">
+![ScreenShot](/Web-APP/images/3.JPG)
 
 
 
@@ -90,7 +90,7 @@ Web Scarping using bs4 (python library) will give the 15 days weather forcast
  - scikit-learn
 
 
-<img width="1792" alt="img" src="/Web-App/images/4.jpg">
+![ScreenShot](/Web-APP/images/4.JPG)
 
 
 
@@ -102,14 +102,15 @@ Web Scarping using bs4 (python library) will give the 15 days weather forcast
  - Javascript
 
 
-<img width="1792" alt="img" src="/Web-App/images/5.jpg">
+![ScreenShot](/Web-APP/images/5.JPG)
 
 
-<img width="1792" alt="img" src="/Web-App/images/6.jpg">
-<img width="1792" alt="img" src="/Web-App/images/7.jpg">
+![ScreenShot](/Web-APP/images/6.JPG)
+![ScreenShot](/Web-APP/images/7.JPG)
+![ScreenShot](/Web-APP/images/8.JPG)
 
 
 
 ### **MultiLangauge Support**
  - Google Translater Api
-<img width="1792" alt="img" src="/Web-App/images/9.jpg">
+![ScreenShot](/Web-APP/images/9.JPG)

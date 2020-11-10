@@ -68,12 +68,12 @@ Web Scraping using BeautifulSoul in order to display the weather for the next 15
  - Chart.js
 
 ![ScreenShot](/Web-APP/images/5.JPG)
-![ScreenShot](/Web-APP/images/6.JPG)
-![ScreenShot](/Web-APP/images/7.JPG)
+
 ![ScreenShot](/Web-APP/images/8.JPG)
 
 
 ### **Multi-langauge Support**
  - Google Translate Api
  
-![ScreenShot](/Web-APP/images/9.JPG)
+![ScreenShot](/Web-APP/images/6.JPG)
+![ScreenShot](/Web-APP/images/7.JPG)

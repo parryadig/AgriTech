@@ -8,19 +8,18 @@
 ### **FrontEnd:**
  - HTML
  - CSS
- - Bootstrap
- - Jquery
  - Javascript
- - Ajax
-
+ - Jquery
+ - Bootstrap
+ 
 ### **BackEnd:**
  - Flask
 
-### **External Library:**
+### **External Libraries:**
  - Chart.js
  - Animate.js
 
-### **Python Library:**
+### **Python Libraries:**
  - Keras
  - Tensorflow
  - opencv
@@ -56,24 +55,17 @@
  - Pillow
  - Numpy
  - Opencv
-**Build CNN model trained on 10k image dataset provided kaggle of different Healthy and Unheathy plant image dataset**
+**Trained the CNN on a data-set comprised of 10k images of different healthy and unheathy plants**
 
 ![ScreenShot](/Web-APP/images/2.JPG)
-
-
-
-
-
-
-
 
 ### **Weather Prediction:**
  - openweathermap
  - bs4
  - Given Two type of weather forcast
 
-Openweathermap Api give the real time forcast
-Web Scarping using bs4 (python library) will give the 15 days weather forcast
+Used Openweathermap api in order to provide real time forecasts
+Web Scraping using BeautifulSoul in order to display the weather for the next 15 days
 
 
  
@@ -87,7 +79,8 @@ Web Scarping using bs4 (python library) will give the 15 days weather forcast
  **- ML Implementation**
  - Pandas
  - Numpy
- - scikit-learn
+ - SKlearn
+ - Keras
 
 
 ![ScreenShot](/Web-APP/images/4.JPG)
@@ -97,10 +90,8 @@ Web Scarping using bs4 (python library) will give the 15 days weather forcast
 
 ### **Market Stats**
  - Google Map Api
- - Chart.js
- - Ajax
  - Javascript
-
+ - Chart.js
 
 ![ScreenShot](/Web-APP/images/5.JPG)
 
@@ -111,6 +102,6 @@ Web Scarping using bs4 (python library) will give the 15 days weather forcast
 
 
 
-### **MultiLangauge Support**
- - Google Translater Api
+### **Multi-langauge Support**
+ - Google Translate Api
 ![ScreenShot](/Web-APP/images/9.JPG)

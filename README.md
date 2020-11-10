@@ -35,10 +35,10 @@ Shiny, GeoR, Gstat, Automap, Lattice, Raster, RgoogleMaps, Leaflet
  - Tensoflow
  - Pillow
  - Numpy
- - Opencv
+ - Opencv  
 **Trained the CNN on a data-set comprised of 10k images of different healthy and unheathy plants**
 
-![ScreenShot](/Web-APP/images/2.JPG)
+![ScreenShot](/Web-APP/images/9.JPG)
 
 
 ### **Weather Prediction:**

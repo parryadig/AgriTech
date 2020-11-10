@@ -51,8 +51,6 @@ Web Scraping using BeautifulSoul in order to display the weather for the next 15
 
 ![ScreenShot](/Web-APP/images/2.JPG)
 
-![ScreenShot](/Web-APP/images/6.JPG)
-
 ### **Crop Recomendation**
  **- ML Implementation**
  - Pandas
@@ -61,6 +59,8 @@ Web Scraping using BeautifulSoul in order to display the weather for the next 15
  - Keras
  
 ![ScreenShot](/Web-APP/images/3.JPG)
+
+![ScreenShot](/Web-APP/images/6.JPG)
 
 
 ### **Market Stats**

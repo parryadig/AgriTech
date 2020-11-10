@@ -49,7 +49,7 @@ Shiny, GeoR, Gstat, Automap, Lattice, Raster, RgoogleMaps, Leaflet
 Used Openweathermap api in order to provide real time forecasts
 Web Scraping using BeautifulSoul in order to display the weather for the next 15 days
 
-![ScreenShot](/Web-APP/images/3.JPG)
+
 
 
 ### **Crop Recomendation**
@@ -59,7 +59,7 @@ Web Scraping using BeautifulSoul in order to display the weather for the next 15
  - SKlearn
  - Keras
  
-![ScreenShot](/Web-APP/images/4.JPG)
+![ScreenShot](/Web-APP/images/3.JPG)
 
 
 ### **Market Stats**
@@ -69,11 +69,14 @@ Web Scraping using BeautifulSoul in order to display the weather for the next 15
 
 ![ScreenShot](/Web-APP/images/5.JPG)
 
-![ScreenShot](/Web-APP/images/8.JPG)
+![ScreenShot](/Web-APP/images/4.JPG)
+
+
 
 
 ### **Multi-langauge Support**
  - Google Translate Api
- 
-![ScreenShot](/Web-APP/images/6.JPG)
 ![ScreenShot](/Web-APP/images/7.JPG)
+
+![ScreenShot](/Web-APP/images/8.JPG)
+

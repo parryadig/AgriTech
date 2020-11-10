@@ -3,47 +3,22 @@
 ## **Data Driven Agriculture**
 
 
-## **Technology:**
+## **Technologies Used:**  
 
-### **FrontEnd:**
- - HTML
- - CSS
- - Javascript
- - Jquery
- - Bootstrap
+### **FrontEnd:**  
+HTML, CSS, Javascript, Jquery, Bootstrap  
  
-### **BackEnd:**
- - Flask
+### **BackEnd:**  
+Flask
 
 ### **External Libraries:**
- - Chart.js
- - Animate.js
+Chart.js, Animate.js
 
-### **Python Libraries:**
- - Keras
- - Tensorflow
- - opencv
- - Numpy
- - Pandas
- - scikit-learn
- - Pillow
- - bs4
- - requests
- - os
- - OWA
- - Flask
+### **Python Libraries:**  
+Keras, Tensorflow, opencv, Numpy, Pandas, scikit-learn, Pillow, bs4, requests, os, OWA, Flask
 
-
-### **R Library:**
- - Shiny
- - GeoR
- - Gstat
- - Ap
- - Automap
- - Lattice
- - Raster
- - RgoogleMaps
- - Leaflet
+### **R Library:**  
+Shiny, GeoR, Gstat, Automap, Lattice, Raster, RgoogleMaps, Leaflet
 
 
 ![ScreenShot](/Web-APP/images/1.JPG)
